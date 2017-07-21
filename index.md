@@ -7,6 +7,6 @@ feature_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixl
 excerpt: "//TODO: Excerpt goes here"
 ---
 
-//TODO: more description update and front matter.
+//TODO: more description update and front matter
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/ssh-iitmandi/" %}
