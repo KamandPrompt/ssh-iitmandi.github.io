@@ -8,7 +8,10 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
-
+.whitecolme
+{
+ color: white !important; 
+}
 // Site-wide base styles.
 body {
   @include fontsize(zeta, all);
@@ -58,13 +61,19 @@ a {
   }
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h4, h5, h6 {
     color: $headingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
   }
+
+  h3{color: white;
+  font-family: unquote(map-get($headingtype, font-family));
+    font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
+    font-style: normal;
+    font-weight: map-get($headingtype, bold);}
 
   // Heading level 1.
   h1, .alpha {
