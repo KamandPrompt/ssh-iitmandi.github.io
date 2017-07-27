@@ -21,6 +21,7 @@ So, we at [ssh-iitmandi](https://ssh-iitmandi.github.io) would like to invite yo
    2. Contest will be for 3 hours.
 
 ### Scoring
+
   1. Though you have to pass all the test cases, you will be scored on the basis of the length of your source code. (Thats the twist)
   2. Lesser the number of characters used, higher will be your rank on the leaderboard :D
   3. Maximum Scoring : 50 — 100 — 150 — 200 — 250
