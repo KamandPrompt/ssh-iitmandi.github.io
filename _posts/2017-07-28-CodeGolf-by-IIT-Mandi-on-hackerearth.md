@@ -15,12 +15,12 @@ We invite you to take up this opportunity to bring out the programmer in you. Th
 
 So, we at [ssh-iitmandi](https://ssh-iitmandi.github.io) would like to invite you all for  [CodeGolf](https://www.hackerearth.com/challenge/college/iitmandi/) at HackeEarth. The contest will start on [July 28,2017 at 9:00 pm IST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeGolf&iso=20170728T21&p1=176&ah=3).
 
-#Rules
-## Problems and Definition
+## Rules
+### Problems and Definition
    1. There will be 5 algorithmic problems.
    2. Contest will be for 3 hours.
 
-##Scoring
+### Scoring
   1. Though you have to pass all the test cases, you will be scored on the basis of the length of your source code. (Thats the twist)
   2. Lesser the number of characters used, higher will be your rank on the leaderboard :D
   3. Maximum Scoring : 50 — 100 — 150 — 200 — 250
